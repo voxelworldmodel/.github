@@ -7,18 +7,18 @@
 ---
 
 <p align="center">
-  <img src="3.png" width="49%"/>
-  <img src="4.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/voxelworldmodel/.github/refs/heads/main/3.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/voxelworldmodel/.github/refs/heads/main/4.png" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="2.png" width="49%"/>
-  <img src="1.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/voxelworldmodel/.github/refs/heads/main/2.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/voxelworldmodel/.github/refs/heads/main/1.png" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="6.png" width="49%"/>
-  <img src="5.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/voxelworldmodel/.github/refs/heads/main/6.png" width="49%"/>
+  <img src="https://raw.githubusercontent.com/voxelworldmodel/.github/refs/heads/main/5.png" width="49%"/>
 </p>
 
 ---
