@@ -1,10 +1,18 @@
-# Minecraft to Realism real time World Model
+# Voxel World Model
+
+> Real time world model that turns game engine data like camera pose, motion, depth, lighting, and entity state into photorealistic video using neural rendering. Focused on low latency, temporal stability, and using AI as the rendering layer for interactive environments.
 
 ---
 
-> Real time world model that turns game engine data (camera, motion, depth) into photorealistic video using neural rendering. Focused on low latency, temporal stability, and integrating AI as the rendering layer for interactive environments.
+A real world sensor event, such as opening a physical door, can update an entity state inside the voxel world. That structured state change can then be rendered through a real time AI pipeline using neural rendering, Gaussian splatting, temporal caching, and frame conditioning.
 
 ---
+
+### Example Visual: Voxel Game → Real-Time Photorealism
+
+A real voxel world model uses an open-source voxel game as the structured simulation layer, then replaces or overlays the native renderer with an AI-driven photorealistic rendering pipeline.
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/voxelworldmodel/.github/refs/heads/main/3.png" width="49%"/>
@@ -23,9 +31,10 @@
 
 ---
 
-- Minecraft Client (Java Edition)
-- Mod loader (Fabric or Forge)
-- Custom rendering mod (framebuffer capture + injection)
+# Pipeline
+
+- an opensource voxel game
+- Custom rendering (framebuffer capture + injection)
 - Shader pack (depth, normals, lighting buffers)
 - GPU pipeline (RTX / raster + shader outputs)
 
