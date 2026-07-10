@@ -215,13 +215,15 @@ Photorealism is a renderer.
 The same voxel world can be viewed through multiple rendering pipelines.
 
 ```
-Voxel
+Native Voxel
 
 Enhanced Voxel
 
 Low Poly
 
 LEGO
+
+Clay
 
 Pixel Art
 
@@ -233,15 +235,99 @@ Photorealistic
 
 Cinematic
 
+Wireframe
+
+Bounding Boxes
+
+Collision Geometry
+
+Navigation Mesh
+
+Occlusion View
+
+Terrain Height Map
+
+Slope Analysis
+
+Topographic
+
 Thermal
 
-IR
+Infrared (IR)
 
-Optimized Focus Heatmapping
+Night Vision
 
-Terrain Height Maps
+Radar
 
-Etc..
+LiDAR Point Cloud
+
+Gaussian Splat View
+
+Depth Buffer
+
+Surface Normals
+
+Material IDs
+
+Lighting Buffers
+
+Motion Vectors
+
+Semantic Segmentation
+
+Object Classification
+
+Instance Segmentation
+
+Physics View
+
+Constraint Visualization
+
+Fluid Simulation
+
+Airflow
+
+Electric Fields
+
+Magnetic Fields
+
+Heatmaps
+
+Optimization Heatmap
+
+GPU Cost
+
+CPU Cost
+
+Network Replication
+
+Latency Heatmap
+
+Pathfinding Cost
+
+AI Attention Maps
+
+Knowledge Graph Overlay
+
+Sensor Coverage
+
+Security Coverage
+
+Power Grid
+
+Automation Flow
+
+Historical Timeline
+
+Future Prediction
+
+Time-Lapse
+
+Replay
+
+Mixed Reality Overlay
+
+Custom User Views
 ```
 
 Changing renderers never changes simulation.
