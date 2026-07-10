@@ -232,6 +232,16 @@ Watercolor
 Photorealistic
 
 Cinematic
+
+Thermal
+
+IR
+
+Optimized Focus Heatmapping
+
+Terrain Height Maps
+
+Etc..
 ```
 
 Changing renderers never changes simulation.
